@@ -1,0 +1,50 @@
+body{
+  background: linear-gradient(to right, red, yellow);
+}
+nav{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.bus{
+  font-size: 40px;
+  font-weight: 800;
+}
+h1{
+  color: white;
+  font-size: 10px;
+}
+p{
+  color: white;
+  font-size: 20px;
+}
+.Active{
+  color: black;
+  font-weight: 700;
+  border: none;
+  background: none;
+}
+.Action{
+  border-radius: 20px;
+  font-size: 10px;
+  padding: 20px 30px;
+  border: none;
+}
+.link{
+  border: none;
+  background: none;
+}
+.subscribe{
+  border-radius: 30px;
+  padding: 20px 30px;
+  border: none;
+}
+.space{
+  display: flex;
+  justify-content: space-between;  
+  align-items: center;  
+}
+  
+
+
+
